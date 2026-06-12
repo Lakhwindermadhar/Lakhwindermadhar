@@ -19,7 +19,7 @@
 
 ---
 
-<img align="right" width="340" src="https://streak-stats.demolab.com/?user=Lakhwindermadhar&theme=dark&hide_border=true&background=00000000&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
+<img align="right" width="340" src="https://github-readme-streak-stats.herokuapp.com?user=Lakhwindermadhar&theme=dark&hide_border=true&background=00000000&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
 
 ### About
 
@@ -134,9 +134,9 @@ const stack = {
 
 ### GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=Lakhwindermadhar&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=Lakhwindermadhar&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Lakhwindermadhar&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakhwindermadhar&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
