@@ -18,6 +18,7 @@
 </div>
 
 ---
+<img align="right" width="340" src="https://github-readme-streak-stats.herokuapp.com?user=Lakhwindermadhar&border_radius=6&mode=weekly&hide_border=true&background=00000000&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
 
 ### About
 
