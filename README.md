@@ -19,8 +19,6 @@
 
 ---
 
-<img align="right" width="340" src="https://github-readme-streak-stats.herokuapp.com?user=Lakhwindermadhar&theme=dark&hide_border=true&background=00000000&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
-
 ### About
 
 Front-End Developer based in **Toronto, Canada** · Specializing in **React.js · TypeScript · Next.js** · Pivoting toward **AI/LLM-powered products**
@@ -131,12 +129,6 @@ const stack = {
 </p>
 
 ---
-
-### GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Lakhwindermadhar&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakhwindermadhar&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
