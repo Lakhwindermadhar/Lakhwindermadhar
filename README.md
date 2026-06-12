@@ -138,6 +138,7 @@ interests = [
 <a href="https://www.linkedin.com/in/lakhwinder-madhar-55435416b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:lakhwindermadhar95@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+<svg width="800px" height="800px" viewBox="0 0 32 32" data-name="Layer 1" id="Layer_1" xmlns="http://www.w3.org/2000/svg">lakhwindermadhar95@gmail.com
 
 ---
 
