@@ -22,24 +22,23 @@
 
 ### About
 
-Front-End Developer based in **Toronto, Canada** · Specializing in **React.js · TypeScript · Next.js** · Pivoting toward **AI/LLM-powered products**
+Front-End Developer based in **Toronto, Canada** · Specializing in **React.js · TypeScript · Next.js** · Strong foundation in scalable UI architecture, API-driven development, and performance optimization across React and Next.js ecosystems.
 
-Building the bridge between beautiful interfaces and intelligent backends — one API call at a time.
-
-- 🔭 Currently building **AI-integrated web apps** using OpenAI API, LangChain.js & RAG pipelines
-- 🌱 Deep-diving into **prompt engineering, vector databases & LLM orchestration**
-- 👯 Looking to collaborate on **open-source AI tools** & developer productivity projects
-- 🤔 Exploring **scalable LLM frontend patterns** — streaming UIs, token efficiency & agentic workflows
-- 💬 Ask me about **React, TypeScript, Next.js** or sneaking AI features into any frontend
-- 🎯 Attended **AI for Work Workshop, Toronto (2026)** — passionate about practical AI adoption
-- ⚡ Fun fact: **I think in components. My grocery list is probably a React state object.**
+- 🔭 Building production-grade UIs with React.js, TypeScript & Next.js
+- ⚡ Experienced in SSR, SSG, React Suspense and performance-first architecture
+- 🚀 Shipping reliable apps with CI/CD via Jenkins & GitHub Actions
+- ♿ Implementing WCAG/AODA accessibility and OWASP security standards
+- 🌱 Exploring OpenAI API integration into React front-end workflows
+- 👯 Open to collaborating on React-based open source projects
+- 💬 Ask me about React, TypeScript, Next.js, Redux Toolkit, or REST API integration
+- ⚡ Fun fact: I think in components. My grocery list is probably a React state object.
 
 ---
 
 ### Experience
 
 ```
-💼  Front-End Developer       AI/LLM Integration Focus      Toronto, CA
+💼  Front-End Developer       AI/LLM Integration Focus       Toronto, CA
 ⚛️  React.js Engineer         TypeScript · Next.js           Full-Stack Adjacent
 🤖  AI App Builder            OpenAI API · LangChain.js      Generative AI
 🧠  Prompt Engineer           RAG · Vector DBs · Agents      LLM Tooling
