@@ -1,12 +1,11 @@
 <div align="center">
 
 ```
-██╗      █████╗ ██╗  ██╗██╗  ██╗██╗    ██╗██╗███╗   ██╗██████╗ ███████╗██████╗
- ██║     ██╔══██╗██║ ██╔╝██║  ██║██║    ██║██║████╗  ██║██╔══██╗██╔════╝██╔══██╗
- ██║     ███████║█████╔╝ ███████║██║ █╗ ██║██║██╔██╗ ██║██║  ██║█████╗  ██████╔╝
- ██║     ██╔══██║██╔═██╗ ██╔══██║██║███╗██║██║██║╚██╗██║██║  ██║██╔══╝  ██╔══██╗
- ███████╗██║  ██║██║  ██╗██║  ██║╚███╔███╔╝██║██║ ╚████║██████╔╝███████╗██║  ██║
- ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝╚═╝  ╚═══╝╚═════╝ ╚══════╝╚═╝  ╚═╝
+██      ████  ██  ██ ██  ██ ██  ██ ██████ ██  ██ █████  ██████ █████
+██     ██  ██ ██ ██  ██  ██ ██  ██   ██   ███ ██ ██  ██ ██     ██  ██
+██     ██████ ████   ██████ ██████   ██   ██████ ██  ██ ████   █████
+██     ██  ██ ██ ██  ██  ██ ██████   ██   ██ ███ ██  ██ ██     ██ ██
+██████ ██  ██ ██  ██ ██  ██ ██  ██ ██████ ██  ██ █████  ██████ ██  ██
 ```
 
 # Lakhwinder Madhar
@@ -46,16 +45,16 @@ Building the bridge between beautiful interfaces and intelligent backends — on
 
 ---
 
-### What I'm Building With
+### Current Focus
 
-```typescript
-const stack = {
-  frontend:  ["React.js", "Next.js", "TypeScript", "Tailwind CSS", "Redux"],
-  ai_llm:    ["OpenAI API", "LangChain.js", "RAG", "Prompt Engineering", "FastAPI"],
-  cloud:     ["AWS", "Azure", "GCP", "Firebase", "Vercel"],
-  tools:     ["Docker", "Jenkins", "GitHub Actions", "Jest", "Cypress"],
-  learning:  ["Vector Databases", "LLM Agents", "Embeddings", "Agentic Workflows"],
-};
+```python
+interests = [
+    "AI-Powered Web Apps — React frontends × LLM backends",
+    "RAG Pipelines & Vector Database Architecture",
+    "Prompt Engineering & Agentic Workflows",
+    "LLM Integration with LangChain.js & OpenAI API",
+    "Scalable Frontend Systems with Next.js & TypeScript",
+]
 ```
 
 ---
