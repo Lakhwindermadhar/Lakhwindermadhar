@@ -13,13 +13,13 @@
 
 **`Front-End Developer · AI/LLM Integration · Building Intelligent Web Experiences`**
 
-<img src="https://komarev.com/ghpvc/?username=lakhwinder-madhar&label=Profile+Views&color=6366f1&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Lakhwindermadhar&label=Profile+Views&color=6366f1&style=flat-square" />
 
 </div>
 
 ---
 
-<img align="right" width="340" src="https://github-readme-streak-stats.herokuapp.com?user=lakhwinder-madhar&border_radius=6&mode=weekly&hide_border=true&background=00000000&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
+<img align="right" width="340" src="https://streak-stats.demolab.com/?user=Lakhwindermadhar&theme=dark&hide_border=true&background=00000000&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
 
 ### About
 
@@ -52,10 +52,11 @@ Building the bridge between beautiful interfaces and intelligent backends — on
 
 ```typescript
 const stack = {
-  frontend:  ["React.js", "Next.js", "TypeScript", "Tailwind CSS"],
-  ai_llm:    ["OpenAI API", "LangChain.js", "RAG", "Prompt Engineering"],
-  tools:     ["Vercel", "Node.js", "REST APIs", "Git"],
-  learning:  ["Vector Databases", "LLM Agents", "Embeddings", "Fine-tuning"],
+  frontend:  ["React.js", "Next.js", "TypeScript", "Tailwind CSS", "Redux"],
+  ai_llm:    ["OpenAI API", "LangChain.js", "RAG", "Prompt Engineering", "FastAPI"],
+  cloud:     ["AWS", "Azure", "GCP", "Firebase", "Vercel"],
+  tools:     ["Docker", "Jenkins", "GitHub Actions", "Jest", "Cypress"],
+  learning:  ["Vector Databases", "LLM Agents", "Embeddings", "Agentic Workflows"],
 };
 ```
 
@@ -68,8 +69,8 @@ const stack = {
 | AI/LLM Integration | Connecting React frontends to intelligent LLM backends |
 | Prompt Engineering | Designing reliable, production-grade prompts |
 | RAG Pipelines | Building retrieval-augmented generation workflows |
-| Next.js Apps | Full-stack TypeScript apps with App Router |
-| Developer Tools | Productivity apps that actually save time |
+| Next.js Apps | Full-stack TypeScript apps with App Router & React Query |
+| CI/CD & DevOps | Docker, GitHub Actions, Jenkins — shipping fast & reliably |
 
 ---
 
@@ -77,29 +78,65 @@ const stack = {
 
 <p>
 <strong>Frontend &nbsp;</strong>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white" />
+<img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D" />
 </p>
 
 <p>
 <strong>AI / LLM &nbsp;</strong>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" />
+<img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
 </p>
 
 <p>
-<strong>Tools & Cloud &nbsp;</strong>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<strong>Cloud & Backend &nbsp;</strong>
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase" />
+<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
 </p>
+
+<p>
+<strong>Databases &nbsp;</strong>
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white" />
+</p>
+
+<p>
+<strong>DevOps & Testing &nbsp;</strong>
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white" />
+<img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat-square&logo=cypress&logoColor=058a5e" />
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+<p>
+<strong>Design &nbsp;</strong>
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white" />
+<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white" />
+</p>
+
+---
+
+### GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=Lakhwindermadhar&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Lakhwindermadhar&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
@@ -107,7 +144,7 @@ const stack = {
 
 <p>
 <a href="https://www.linkedin.com/in/lakhwinder-madhar-55435416b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:lakhwindermadhar95@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
