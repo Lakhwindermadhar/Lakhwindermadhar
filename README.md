@@ -1,24 +1,117 @@
-<!--
-**Lakhwindermadhar/Lakhwindermadhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-- 🔭 I'm currently working on **AI-powered web apps** — bridging React frontends with LLM backends using OpenAI API & LangChain.js
-- 🌱 I'm currently learning **RAG pipelines, prompt engineering, and LLM orchestration** — turning cutting-edge AI research into real products
-- 👯 I'm looking to collaborate on **open-source AI tools, developer productivity apps, or anything that makes humans + AI work better together**
-- 🤔 I'm looking for help with **scaling LLM-integrated apps efficiently** — if you've cracked streaming responses and vector DBs, let's talk
-- 💬 Ask me about **React, TypeScript, Next.js, or how to sneak AI features into any frontend without burning your API budget**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lakhwinder-madhar-55435416b/) · or just open an issue on one of my repos 😄
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I think in components. Even my grocery list is probably a React state object at this point.**
--->
+```
+██╗      █████╗ ██╗  ██╗██╗  ██╗██╗    ██╗██╗███╗   ██╗██████╗ ███████╗██████╗
+██║     ██╔══██╗██║ ██╔╝██║  ██║██║    ██║██║████╗  ██║██╔══██╗██╔════╝██╔══██╗
+██║     ███████║█████╔╝ ███████║██║ █╗ ██║██║██╔██╗ ██║██║  ██║█████╗  ██████╔╝
+██║     ██╔══██║██╔═██╗ ██╔══██║██║███╗██║██║██║╚██╗██║██║  ██║██╔══╝  ██╔══██╗
+███████╗██║  ██║██║  ██╗██║  ██║╚███╔███╔╝██║██║ ╚████║██████╔╝███████╗██║  ██║
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝╚═╝  ╚═══╝╚═════╝ ╚══════╝╚═╝  ╚═╝
+```
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Lakhwindermadhar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Lakhwindermadhar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Lakhwindermadhar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# Lakhwinder Madhar
+
+**`Front-End Developer · AI/LLM Integration · Building Intelligent Web Experiences`**
+
+<img src="https://komarev.com/ghpvc/?username=lakhwinder-madhar&label=Profile+Views&color=6366f1&style=flat-square" />
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Lakhwindermadhar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img align="right" width="340" src="https://github-readme-streak-stats.herokuapp.com?user=lakhwinder-madhar&border_radius=6&mode=weekly&hide_border=true&background=00000000&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
+
+### About
+
+Front-End Developer based in **Toronto, Canada** · Specializing in **React.js · TypeScript · Next.js** · Pivoting toward **AI/LLM-powered products**
+
+Building the bridge between beautiful interfaces and intelligent backends — one API call at a time.
+
+- 🔭 Currently building **AI-integrated web apps** using OpenAI API, LangChain.js & RAG pipelines
+- 🌱 Deep-diving into **prompt engineering, vector databases & LLM orchestration**
+- 👯 Looking to collaborate on **open-source AI tools** & developer productivity projects
+- 🤔 Exploring **scalable LLM frontend patterns** — streaming UIs, token efficiency & agentic workflows
+- 💬 Ask me about **React, TypeScript, Next.js** or sneaking AI features into any frontend
+- 🎯 Attended **AI for Work Workshop, Toronto (2026)** — passionate about practical AI adoption
+- ⚡ Fun fact: **I think in components. My grocery list is probably a React state object.**
+
+---
+
+### Experience
+
+```
+💼  Front-End Developer       AI/LLM Integration Focus      Toronto, CA
+⚛️  React.js Engineer         TypeScript · Next.js           Full-Stack Adjacent
+🤖  AI App Builder            OpenAI API · LangChain.js      Generative AI
+🧠  Prompt Engineer           RAG · Vector DBs · Agents      LLM Tooling
+```
+
+---
+
+### What I'm Building With
+
+```typescript
+const stack = {
+  frontend:  ["React.js", "Next.js", "TypeScript", "Tailwind CSS"],
+  ai_llm:    ["OpenAI API", "LangChain.js", "RAG", "Prompt Engineering"],
+  tools:     ["Vercel", "Node.js", "REST APIs", "Git"],
+  learning:  ["Vector Databases", "LLM Agents", "Embeddings", "Fine-tuning"],
+};
+```
+
+---
+
+### Key Focus Areas
+
+| 🧩 Domain | 📌 What I Do |
+|---|---|
+| AI/LLM Integration | Connecting React frontends to intelligent LLM backends |
+| Prompt Engineering | Designing reliable, production-grade prompts |
+| RAG Pipelines | Building retrieval-augmented generation workflows |
+| Next.js Apps | Full-stack TypeScript apps with App Router |
+| Developer Tools | Productivity apps that actually save time |
+
+---
+
+### Tech Stack
+
+<p>
+<strong>Frontend &nbsp;</strong>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
+
+<p>
+<strong>AI / LLM &nbsp;</strong>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white" />
+</p>
+
+<p>
+<strong>Tools & Cloud &nbsp;</strong>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+---
+
+### Connect
+
+<p>
+<a href="https://www.linkedin.com/in/lakhwinder-madhar-55435416b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<div align="center">
+<sub>Open to collaborations · AI/LLM projects · Front-End roles · Building cool things with React + AI</sub>
+</div>
