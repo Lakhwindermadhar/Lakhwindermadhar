@@ -18,7 +18,10 @@
 </div>
 
 ---
-<img align="right" width="340" src="https://github-readme-streak-stats.herokuapp.com?user=Lakhwindermadhar&border_radius=6&mode=weekly&hide_border=true&background=00000000&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
+![](https://github-readme-stats.shion.dev/api?username=Lakhwindermadhar&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Lakhwindermadhar&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Lakhwindermadhar&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ### About
 
