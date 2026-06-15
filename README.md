@@ -18,9 +18,9 @@
 </div>
 
 ---
-![](https://github-readme-stats.shion.dev/api?username=Lakhwindermadhar&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Lakhwindermadhar&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Lakhwindermadhar&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=Lakhwindermadhar&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Lakhwindermadhar&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Lakhwindermadhar&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 ### About
